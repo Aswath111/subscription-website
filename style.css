@@ -1,0 +1,47 @@
+.title{
+    margin:10px;
+    padding:10px;
+    background-color: rgb(236, 57, 182);
+    display:flex;
+    justify-content: center;
+    margin-top:50px;
+    
+    
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+.subscription__container{
+    background-color: black;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    width:200px;
+    align-items:center;
+    padding:10px;
+    gap:15px;
+    height:300px;
+    border:inside green 2px;
+    border-radius: 20px;
+}
+.subscription__desc{
+    border:solid white 1px;
+    padding:10px;
+    border-radius:10px;
+    
+    
+}
+.subscription__desc p{
+    margin-top:10px;
+}
+.sub{
+    display:flex;
+    padding:10px;
+    gap:80px;
+    margin:40px;
+    justify-content: center;
+
+}
